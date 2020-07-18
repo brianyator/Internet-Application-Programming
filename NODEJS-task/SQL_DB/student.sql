@@ -39,9 +39,9 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`id`, `firstname`, `lastname`, `classgroup`) VALUES
-(1, 'Jann', 'Malu', 'ICS3A'),
-(2, 'Trevor', 'Saudi', 'ICS3A'),
-(3, 'Abu', 'Somo', 'ICS3C');
+(1, 'Mandela', 'Washington', 'BTC'),
+(2, 'Joseph', 'Tobiko', 'ICS'),
+(3, 'Brian', 'Yator', 'SLS');
 
 --
 -- Indexes for dumped tables
